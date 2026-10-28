@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HabitQuest" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/terracotta</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/sage_green</item>
+        <item name="colorSecondaryContainer">@color/nav_indicator</item>
+        <item name="colorOnSecondaryContainer">@color/terracotta</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text_main</item>
+        <item name="android:colorBackground">@color/bg_main</item>
+        <item name="android:windowBackground">@color/bg_main</item>
+        <item name="android:statusBarColor">@color/bg_main</item>
+        <item name="android:navigationBarColor">@color/bg_main</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:textColorPrimary">@color/text_main</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+
+    <style name="HabitQuest.Fab" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

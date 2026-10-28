@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#121212</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="divider">#2E2E2E</color>
+    <color name="text_main">#F2EFEA</color>
+    <color name="text_secondary">#A09A92</color>
+    <color name="terracotta">#E07A5F</color>
+    <color name="sage_green">#81B29A</color>
+    <color name="warm_yellow">#F2CC8F</color>
+    <color name="fire_orange">#FF8A3D</color>
+    <color name="dock_fill">#CC1A1A1A</color>
+    <color name="dock_stroke">#333333</color>
+    <color name="dock_glow">#55E07A5F</color>
+    <color name="nav_inactive">#8A857D</color>
+    <color name="nav_indicator">#44E07A5F</color>
+    <color name="heat_empty">#2A2A2A</color>
+    <color name="heat_filled">#81B29A</color>
+    <color name="glow_sage">#6681B29A</color>
+    <color name="glow_sage_end">#0081B29A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
